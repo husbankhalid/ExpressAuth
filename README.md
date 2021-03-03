@@ -17,11 +17,8 @@ The complete User Story of the Application is described below along with all the
 The complete user story of the Web Application can be described follows:
 
  * Users can register themselves by providing an Email and a Password.
- 
  * After registering themselves Users can Login, and visit their Dashboard.
- 
  * From their Dashboard, Users can change their Passwords.
- 
  * Also, Users can delete their account from their respective Dashboards.
 
 
